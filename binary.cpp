@@ -6,7 +6,8 @@ int main(){
       int n;
       cin>>n;
 
-     int i=0, ans=0;
+     int i=0, ans=0 ;
+     int temp = 0;
 
       while(n!=0){
 
